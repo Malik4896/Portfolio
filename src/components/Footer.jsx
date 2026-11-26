@@ -30,7 +30,7 @@ export default function Footer() {
             </div>
 
             <p className="text-xs sm:text-sm text-slate-400 max-w-sm leading-relaxed">
-              Final year B.Tech Artificial Intelligence &amp; Data Science student at Anna University. Passionate about machine learning pipelines, ETL workflows, and building full-stack products.
+              Final year B.Tech Artificial Intelligence &amp; Data Science student at Anna University. Passionate about artificial intelligence, machine learning, and building intelligent full-stack products.
             </p>
 
             <div className="pt-2 flex items-center gap-3">

@@ -69,7 +69,7 @@ export default function Navbar() {
                 <span className="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-pulse" title="Available for opportunities" />
               </span>
               <p className="text-[11px] text-slate-400 font-mono hidden sm:block tracking-wide">
-                AI/ML &bull; Data Engineer
+                AI/ML Engineer
               </p>
             </div>
           </a>

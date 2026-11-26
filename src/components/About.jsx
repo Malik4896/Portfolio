@@ -17,7 +17,7 @@ export default function About() {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-slate-400 text-sm sm:text-base">
-            Artificial Intelligence &amp; Data Science enthusiast eager to build production-grade machine learning pipelines, scalable data architectures, and full-stack solutions.
+            Artificial Intelligence &amp; Machine Learning enthusiast eager to build intelligent ML models, predictive systems, and full-stack AI-driven solutions.
           </p>
         </div>
 
@@ -34,8 +34,8 @@ export default function About() {
                   <Target className="w-5 h-5" />
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold text-white">Professional Summary &amp; Career Objective</h3>
-                  <p className="text-xs font-mono text-cyan-400">AI/ML Engineer &bull; Data Engineer</p>
+                  <h3 className="text-lg font-bold text-white">About &amp; AI/ML Focus</h3>
+                  <p className="text-xs font-mono text-cyan-400">AI/ML Engineer &bull; Artificial Intelligence &amp; Machine Learning</p>
                 </div>
               </div>
 
@@ -45,10 +45,10 @@ export default function About() {
                   Final year <span className="text-white font-semibold">B.Tech Artificial Intelligence &amp; Data Science</span> student at <span className="text-slate-100 font-medium">Aalim Muhammed Salegh College of Engineering, Avadi (Affiliated to Anna University)</span> with a cumulative <span className="text-cyan-300 font-bold">CGPA of 8.20</span>.
                 </p>
                 <p>
-                  Equipped with solid hands-on experience across <span className="text-white font-medium">Python, SQL, data analysis, and data visualization</span>, seeking an entry-level <span className="text-purple-300 font-semibold">AI/ML Engineer / Data Engineer</span> role. Experienced in building automated data cleaning routines, exploratory data analysis (EDA), and machine learning model pipelines utilizing <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Pandas</span>, <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">NumPy</span>, <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Scikit-learn</span>, <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Matplotlib</span>, and <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Power BI / Tableau</span>.
+                  Deeply interested in <span className="text-white font-medium">Artificial Intelligence and Machine Learning</span>, with solid hands-on experience across <span className="text-white font-medium">Python, SQL, data analysis, and predictive modeling</span>, seeking an entry-level <span className="text-purple-300 font-semibold">AI/ML Engineer</span> role. Experienced in building data preprocessing workflows, exploratory data analysis (EDA), and end-to-end machine learning models utilizing <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Pandas</span>, <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">NumPy</span>, <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Scikit-learn</span>, <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Matplotlib</span>, and <span className="text-cyan-300 font-mono text-xs px-1.5 py-0.5 rounded bg-cyan-950/40 border border-cyan-800/40">Power BI / Tableau</span>.
                 </p>
                 <p>
-                  Possesses a strong foundation in statistics, ETL concepts, and database querying. A quick learner dedicated to translating mathematical machine learning models and efficient data pipelines into scalable business outcomes.
+                  Possesses a strong foundation in statistics, feature engineering, and database querying, with a keen interest in applying machine learning, predictive analytics, and generative AI to build intelligent, scalable real-world applications.
                 </p>
               </div>
 
@@ -56,7 +56,7 @@ export default function About() {
               <div className="pt-4 border-t border-white/5 grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm text-slate-300 font-medium">
                 <div className="flex items-center gap-2">
                   <CheckCircle2 className="w-4 h-4 text-cyan-400 shrink-0" />
-                  <span>End-to-End Data Pipelines (ETL)</span>
+                  <span>Exploratory Data Analysis &amp; Feature Engineering</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <CheckCircle2 className="w-4 h-4 text-cyan-400 shrink-0" />

@@ -21,7 +21,7 @@ export default function Hero() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-400"></span>
               </span>
               <span className="text-cyan-300 font-mono text-[11px] sm:text-xs">
-                Open to AI/ML &amp; Data Engineering Roles
+                Open to AI/ML Engineering Roles
               </span>
               <span className="hidden sm:inline text-slate-600">|</span>
               <span className="hidden sm:inline-flex items-center gap-1 text-slate-400">
@@ -39,7 +39,7 @@ export default function Hero() {
               <h1 className="text-4xl sm:text-6xl xl:text-7xl font-extrabold tracking-tight text-white leading-[1.1]">
                 <span className="block">{personalInfo.name}</span>
                 <span className="text-gradient block mt-1">
-                  AI/ML &amp; Data Engineer
+                  AI/ML Engineer
                 </span>
               </h1>
             </div>

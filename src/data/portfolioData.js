@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Abdul Malik B J",
-  title: "AI/ML Engineer & Data Engineer",
+  title: "AI/ML Engineer",
   subtitle: "Final Year B.Tech Artificial Intelligence & Data Science Student",
   status: "Available for Entry-Level Roles & Internships",
   location: "Chennai, India",
@@ -11,16 +11,16 @@ export const personalInfo = {
   portfolio: "https://abdulmalikbj.vercel.app",
   resumePath: "/Abdul_Malik_Resume.pdf",
   photoPath: "/profile.jpg",
-  summary: `Final year B.Tech Artificial Intelligence & Data Science student with hands-on skills in Python, SQL, data analysis, and data visualization, seeking an entry-level AI/ML Engineer / Data Engineer role. Experienced in building data cleaning, EDA, and ML model projects using Pandas, NumPy, Scikit-learn, Matplotlib, and Power BI/Tableau. Strong foundation in statistics, ETL concepts, and database querying. Quick learner eager to apply machine learning and data pipeline skills to solve real business problems.`,
+  summary: `Final year B.Tech Artificial Intelligence & Data Science student with a strong interest in AI/ML and hands-on skills in Python, SQL, data analysis, and predictive modeling, seeking an entry-level AI/ML Engineer role. Experienced in building data cleaning, EDA, and ML model projects using Pandas, NumPy, Scikit-learn, Matplotlib, and Power BI/Tableau. Strong foundation in statistics, feature engineering, and database querying. Quick learner eager to apply artificial intelligence and machine learning skills to solve real-world problems.`,
   about: {
     bio: [
       "I am a final-year Artificial Intelligence and Data Science undergraduate at Aalim Muhammed Salegh College of Engineering (Affiliated to Anna University), Chennai, maintaining a CGPA of 8.20 through my 6th semester.",
-      "My passion lies at the intersection of Machine Learning, scalable Data Engineering, and full-stack software development. From training predictive models and architecting ETL pipelines to containerizing infrastructure with Docker and Terraform, I build complete, end-to-end intelligent systems.",
+      "My passion lies at the intersection of Artificial Intelligence, Machine Learning, and full-stack software development. From training predictive models and performing feature engineering to containerizing infrastructure with Docker and Terraform, I build complete, end-to-end intelligent systems.",
       "I have proved these capabilities through practical engineering internships at HTGE Technologies (AWS cloud monitoring & Terraform IaC automation) and AdroIT Technologies (full-stack role-based project management system), alongside building complex flagship platforms like PrescientIQ and the C2X Web IDE."
     ],
     highlights: [
       { label: "Academic CGPA", value: "8.20 / 10", description: "Consistently strong academic performance" },
-      { label: "Core Focus", value: "AI / ML & Data", description: "Predictive modeling, EDA, ETL pipelines" },
+      { label: "Core Interest", value: "AI & ML", description: "Predictive modeling, EDA, intelligent systems" },
       { label: "Industry Experience", value: "2 Internships", description: "DevOps at HTGE & MERN at AdroIT" },
       { label: "Flagship Projects", value: "2 Systems", description: "PrescientIQ & C2X Desktop IDE" },
     ]

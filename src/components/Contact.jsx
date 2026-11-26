@@ -65,7 +65,7 @@ export default function Contact() {
             Let's <span className="text-gradient">Connect</span>
           </h2>
           <p className="text-slate-400 text-sm sm:text-base">
-            Interested in hiring an AI/ML Engineer or Data Engineer? Have an internship or full-time opportunity? Reach out directly.
+            Interested in hiring an AI/ML Engineer? Have an internship or full-time opportunity? Reach out directly.
           </p>
         </div>
 
@@ -87,7 +87,7 @@ export default function Contact() {
                 </span>
               </div>
               <h3 className="text-lg font-bold text-white">
-                Actively Seeking AI/ML &amp; Data Engineering Roles
+                Actively Seeking AI/ML Engineering Roles
               </h3>
               <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
                 Available for full-time opportunities starting upon graduation, pre-placement internships, and challenging engineering initiatives.
