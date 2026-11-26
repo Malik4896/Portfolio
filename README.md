@@ -1,89 +1,93 @@
-# 👋 Hi, I'm Abdul Malik
 
-### AI/ML Engineer | Full-Stack Developer | Aspiring Software Engineer
+<div align="center">
 
-I'm a passionate developer interested in building intelligent applications using Artificial Intelligence, Machine Learning, and modern web technologies. I enjoy solving real-world problems through innovative projects and continuously improving my technical skills.
+# 👨‍💻 ABDUL MALIK
 
----
+### AI/ML Engineer | Full-Stack Developer | Software Developer
 
-## 🚀 About Me
+**Building Intelligent Solutions. Creating Digital Experiences.**
 
-- 🎓 Interested in Artificial Intelligence and Data Science.
-- 🤖 Exploring AI, Machine Learning, and Generative AI.
-- 💻 Developing full-stack web applications.
-- 🌱 Continuously learning new technologies and frameworks.
-- 🏆 Interested in hackathons, innovation, and problem-solving.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmalik645.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Malik4896-black?style=for-the-badge&logo=github)](https://github.com/Malik4896)
 
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- Python
-- JavaScript
-- Dart
-
-**Frontend Development**
-- React.js
-- HTML5
-- CSS3
-- Flutter
-
-**Backend Development**
-- Node.js
-- Python
-
-**Database**
-- MongoDB
-
-**AI / Machine Learning**
-- Machine Learning
-- Generative AI
-- AI Chatbots
-- Predictive Analytics
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Postman
+</div>
 
 ---
 
-## 💡 Featured Project
+## 🚀 About
 
-### PrescientIQ – Predictive Management System
+Welcome to my personal developer portfolio!
 
-An AI-powered predictive management dashboard that uses machine learning to analyze business data, forecast future trends, identify potential risks, and support data-driven decision-making.
+This website showcases my technical skills, development journey, projects, and interests in Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.
 
-**Technologies:** React.js, JavaScript, Node.js, MongoDB, Machine Learning.
+My goal is to build innovative applications that solve real-world problems through technology.
 
-C2X – AI-Powered Desktop IDE & Developer Platform 
+## 💡 What I Do
 
-  Tech Stack: React.js, TypeScript, JavaScript, Monaco Editor, Git, GitHub. 
-  
-  Developing a browser-based code editor inspired by VS Code with syntax highlighting, multi-tab editing, and file management. 
-  
-  Implementing workspace management, developer productivity tools, and an integrated IDE interface.
+- 🤖 Artificial Intelligence and Machine Learning.
+- 🌐 Full-Stack Web Development.
+- 📊 Data Analytics and Visualization.
+- 💻 Software Development.
+- 🧠 Exploring Generative AI and LLM technologies.
 
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | React.js |
+| Styling | Tailwind CSS |
+| Programming | JavaScript |
+| Build Tool | Vite |
+| Deployment | Vercel |
+| Version Control | Git and GitHub |
+
+## ⭐ Featured Projects
+
+### 1. PrescientIQ
+AI-powered predictive management platform.
+
+[Explore Project](https://github.com/Malik4896/prescientIQ)
+
+### 2. WORK FORGE
+Project management application.
+
+[Explore Project](https://github.com/Malik4896/Project-management-Application)
+
+### 3. Customer Shopping Analysis
+Data analytics and customer behavior insights.
+
+[Explore Project](https://github.com/Malik4896/Customer-shopping-analysis)
+
+### 4. AI Agent Usage Analytics
+AI adoption and usage analytics from 2023–2025.
+
+[Explore Project](https://github.com/Malik4896/AI-Agent-Usage-Analytics-2023-2025)
+
+## ⚙️ Run Locally
+
+```bash
+git clone https://github.com/Malik4896/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+```
+
+## 🌐 Live Portfolio
+
+[Visit My Portfolio](https://abdulmalik645.github.io/Portfolio/)
+
+## 📬 Connect With Me
+
+- GitHub: https://github.com/Malik4896
+- LinkedIn: Abdul Malik
+- Email: abdulmalikbj06@gmail.com
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulmalik652006&show_icons=true&theme=tokyonight)
+**"Building intelligent solutions today for a smarter tomorrow."**
 
+⭐ Thanks for visiting my portfolio!
 
-
----
-
-## 🤝 Connect With Me
-
-- **GitHub:** [Abdulmalik652006](https://github.com/Abdulmalik652006)
-- **LinkedIn:** [Abdul Malik](https://www.linkedin.com/in/abdul-malik-b-j-1215462ba/)
-- **Email:** [abdulmalikbj06@gmail.com](mailto:abdulmalikbj06@gmail.com)
-
----
-
-### 💬 Personal Motto
-
-"Building intelligent solutions today for a smarter tomorrow."
-
-⭐ Thanks for visiting my profile!
+</div>
